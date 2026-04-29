@@ -1,0 +1,802 @@
+[
+  {
+    "id": 3070,
+    "category": "feature",
+    "priority": "medium",
+    "user": "anna",
+    "status": "open",
+    "message": "Нужна настройка уведомлений для каждого отдела"
+  },
+  {
+    "id": 3023,
+    "category": "bug",
+    "priority": "medium",
+    "user": "ivan",
+    "status": "open",
+    "message": "При удалении записи возникает ошибка"
+  },
+  {
+    "id": 3024,
+    "category": "bug",
+    "priority": "high",
+    "user": "maria",
+    "status": "open",
+    "message": "Система не сохраняет выбранный статус"
+  },
+  {
+    "id": 3061,
+    "category": "feature",
+    "priority": "high",
+    "user": "maria",
+    "status": "closed",
+    "message": "Добавить поле источник обращения"
+  },
+  {
+    "id": 3050,
+    "category": "feature",
+    "priority": "low",
+    "user": "ivan",
+    "status": "open",
+    "message": "Нужна интеграция с почтой"
+  },
+  {
+    "id": 3062,
+    "category": "feature",
+    "priority": "high",
+    "user": "ivan",
+    "status": "closed",
+    "message": "Нужна возможность скрывать закрытые заявки"
+  },
+  {
+    "id": 3056,
+    "category": "feature",
+    "priority": "low",
+    "user": "anna",
+    "status": "open",
+    "message": "Сделать экспорт списка клиентов"
+  },
+  {
+    "id": 3077,
+    "category": "support",
+    "priority": "low",
+    "user": "dmitry",
+    "status": "closed",
+    "message": "Как добавить нового пользователя"
+  },
+  {
+    "id": 3088,
+    "category": "support",
+    "priority": "medium",
+    "user": "maria",
+    "status": "closed",
+    "message": "Как настроить права для менеджера"
+  },
+  {
+    "id": 3016,
+    "category": "bug",
+    "priority": "medium",
+    "user": "irina",
+    "status": "closed",
+    "message": "Не работает поиск по названию клиента"
+  },
+  {
+    "id": 3038,
+    "category": "bug",
+    "priority": "low",
+    "user": "sergey",
+    "status": "closed",
+    "message": "При открытии карточки появляется 500 ошибка"
+  },
+  {
+    "id": 3090,
+    "category": "support",
+    "priority": "low",
+    "user": "olga",
+    "status": "closed",
+    "message": "Как открыть карточку клиента"
+  },
+  {
+    "id": 3012,
+    "category": "bug",
+    "priority": "low",
+    "user": "ivan",
+    "status": "open",
+    "message": "Ошибка при создании новой сделки"
+  },
+  {
+    "id": 3082,
+    "category": "support",
+    "priority": "low",
+    "user": "anna",
+    "status": "open",
+    "message": "Как найти клиента по номеру телефона"
+  },
+  {
+    "id": 3026,
+    "category": "bug",
+    "priority": "low",
+    "user": "anna",
+    "status": "closed",
+    "message": "Форма заявки загружается с ошибкой"
+  },
+  {
+    "id": 3025,
+    "category": "bug",
+    "priority": "high",
+    "user": "sergey",
+    "status": "open",
+    "message": "Не отображается список сотрудников"
+  },
+  {
+    "id": 3029,
+    "category": "bug",
+    "priority": "low",
+    "user": "alex",
+    "status": "closed",
+    "message": "Ошибка при изменении ответственного"
+  },
+  {
+    "id": 3064,
+    "category": "feature",
+    "priority": "low",
+    "user": "olga",
+    "status": "open",
+    "message": "Сделать отображение количества заявок в меню"
+  },
+  {
+    "id": 3015,
+    "category": "bug",
+    "priority": "low",
+    "user": "anna",
+    "status": "open",
+    "message": "После обновления пропала кнопка"
+  },
+  {
+    "id": 3006,
+    "category": "bug",
+    "priority": "low",
+    "user": "irina",
+    "status": "open",
+    "message": "После нажатия кнопки ничего не происходит"
+  },
+  {
+    "id": 3074,
+    "category": "support",
+    "priority": "high",
+    "user": "dmitry",
+    "status": "closed",
+    "message": "Подскажите как изменить ответственного"
+  },
+  {
+    "id": 3030,
+    "category": "bug",
+    "priority": "medium",
+    "user": "maria",
+    "status": "open",
+    "message": "Не отображается история изменений"
+  },
+  {
+    "id": 3005,
+    "category": "bug",
+    "priority": "high",
+    "user": "dmitry",
+    "status": "open",
+    "message": "Страница зависает при открытии отчета"
+  },
+  {
+    "id": 3011,
+    "category": "bug",
+    "priority": "medium",
+    "user": "maria",
+    "status": "open",
+    "message": "Не загружается список задач"
+  },
+  {
+    "id": 3055,
+    "category": "feature",
+    "priority": "low",
+    "user": "elena",
+    "status": "open",
+    "message": "Добавить цветовые метки для срочных заявок"
+  },
+  {
+    "id": 3080,
+    "category": "support",
+    "priority": "low",
+    "user": "dmitry",
+    "status": "open",
+    "message": "Как прикрепить файл к карточке"
+  },
+  {
+    "id": 3097,
+    "category": "support",
+    "priority": "high",
+    "user": "olga",
+    "status": "closed",
+    "message": "Где посмотреть ответственного за заявку"
+  },
+  {
+    "id": 3094,
+    "category": "support",
+    "priority": "high",
+    "user": "pavel",
+    "status": "open",
+    "message": "Как отфильтровать заявки по дате"
+  },
+  {
+    "id": 3066,
+    "category": "feature",
+    "priority": "high",
+    "user": "olga",
+    "status": "open",
+    "message": "Нужна интеграция с телефонией"
+  },
+  {
+    "id": 3078,
+    "category": "support",
+    "priority": "low",
+    "user": "olga",
+    "status": "open",
+    "message": "Не понимаю как настроить фильтр"
+  },
+  {
+    "id": 3003,
+    "category": "bug",
+    "priority": "low",
+    "user": "sergey",
+    "status": "open",
+    "message": "Сделка не сохраняется после изменения поля"
+  },
+  {
+    "id": 3004,
+    "category": "bug",
+    "priority": "high",
+    "user": "pavel",
+    "status": "open",
+    "message": "Появляется ошибка при отправке формы"
+  },
+  {
+    "id": 3044,
+    "category": "feature",
+    "priority": "high",
+    "user": "irina",
+    "status": "closed",
+    "message": "Сделать массовое изменение ответственного"
+  },
+  {
+    "id": 3068,
+    "category": "feature",
+    "priority": "low",
+    "user": "alex",
+    "status": "closed",
+    "message": "Сделать быстрый переход к связанным сделкам"
+  },
+  {
+    "id": 3033,
+    "category": "bug",
+    "priority": "high",
+    "user": "anna",
+    "status": "open",
+    "message": "Не работает массовое изменение статуса"
+  },
+  {
+    "id": 3047,
+    "category": "feature",
+    "priority": "medium",
+    "user": "alex",
+    "status": "closed",
+    "message": "Добавить уведомление при смене статуса"
+  },
+  {
+    "id": 3079,
+    "category": "support",
+    "priority": "low",
+    "user": "pavel",
+    "status": "closed",
+    "message": "Где находится отчет по заявкам"
+  },
+  {
+    "id": 3022,
+    "category": "bug",
+    "priority": "high",
+    "user": "ivan",
+    "status": "open",
+    "message": "Сломалась сортировка по дате"
+  },
+  {
+    "id": 3014,
+    "category": "bug",
+    "priority": "medium",
+    "user": "ivan",
+    "status": "closed",
+    "message": "Файл не прикрепляется к карточке"
+  },
+  {
+    "id": 3084,
+    "category": "support",
+    "priority": "low",
+    "user": "olga",
+    "status": "open",
+    "message": "Как создать новую сделку"
+  },
+  {
+    "id": 3019,
+    "category": "bug",
+    "priority": "low",
+    "user": "olga",
+    "status": "closed",
+    "message": "Ошибка при выгрузке отчета"
+  },
+  {
+    "id": 3018,
+    "category": "bug",
+    "priority": "high",
+    "user": "olga",
+    "status": "open",
+    "message": "Не приходит уведомление о новой заявке"
+  },
+  {
+    "id": 3076,
+    "category": "support",
+    "priority": "high",
+    "user": "alex",
+    "status": "open",
+    "message": "Где посмотреть историю изменений"
+  },
+  {
+    "id": 3058,
+    "category": "feature",
+    "priority": "high",
+    "user": "anna",
+    "status": "open",
+    "message": "Нужен отдельный отчет по просроченным заявкам"
+  },
+  {
+    "id": 3049,
+    "category": "feature",
+    "priority": "high",
+    "user": "maria",
+    "status": "open",
+    "message": "Добавить автоматическую постановку задачи"
+  },
+  {
+    "id": 3008,
+    "category": "bug",
+    "priority": "high",
+    "user": "olga",
+    "status": "closed",
+    "message": "Система выдает ошибку при входе"
+  },
+  {
+    "id": 3071,
+    "category": "support",
+    "priority": "high",
+    "user": "sergey",
+    "status": "closed",
+    "message": "Не могу найти раздел настроек"
+  },
+  {
+    "id": 3099,
+    "category": "support",
+    "priority": "high",
+    "user": "elena",
+    "status": "open",
+    "message": "Нужно объяснить работу раздела аналитики"
+  },
+  {
+    "id": 3007,
+    "category": "bug",
+    "priority": "low",
+    "user": "pavel",
+    "status": "open",
+    "message": "Не работает фильтр по клиентам"
+  },
+  {
+    "id": 3063,
+    "category": "feature",
+    "priority": "high",
+    "user": "anna",
+    "status": "open",
+    "message": "Добавить фильтр по ответственному сотруднику"
+  },
+  {
+    "id": 3060,
+    "category": "feature",
+    "priority": "low",
+    "user": "pavel",
+    "status": "open",
+    "message": "Сделать напоминания по открытым обращениям"
+  },
+  {
+    "id": 3036,
+    "category": "bug",
+    "priority": "high",
+    "user": "elena",
+    "status": "closed",
+    "message": "После импорта часть заявок пропала"
+  },
+  {
+    "id": 3053,
+    "category": "feature",
+    "priority": "low",
+    "user": "irina",
+    "status": "closed",
+    "message": "Добавить быстрый поиск по телефону клиента"
+  },
+  {
+    "id": 3043,
+    "category": "feature",
+    "priority": "high",
+    "user": "maria",
+    "status": "open",
+    "message": "Добавить возможность выгружать отчет в Excel"
+  },
+  {
+    "id": 3001,
+    "category": "bug",
+    "priority": "high",
+    "user": "irina",
+    "status": "open",
+    "message": "Ошибка при загрузке карточки клиента"
+  },
+  {
+    "id": 3072,
+    "category": "support",
+    "priority": "low",
+    "user": "anna",
+    "status": "closed",
+    "message": "Как выгрузить таблицу в Excel"
+  },
+  {
+    "id": 3042,
+    "category": "feature",
+    "priority": "medium",
+    "user": "elena",
+    "status": "closed",
+    "message": "Нужен фильтр по дате создания заявки"
+  },
+  {
+    "id": 3052,
+    "category": "feature",
+    "priority": "high",
+    "user": "ivan",
+    "status": "closed",
+    "message": "Сделать шаблоны комментариев для менеджеров"
+  },
+  {
+    "id": 3040,
+    "category": "bug",
+    "priority": "low",
+    "user": "sergey",
+    "status": "closed",
+    "message": "Некорректно отображается дата создания"
+  },
+  {
+    "id": 3020,
+    "category": "bug",
+    "priority": "low",
+    "user": "olga",
+    "status": "open",
+    "message": "Некорректно считается сумма в документе"
+  },
+  {
+    "id": 3046,
+    "category": "feature",
+    "priority": "medium",
+    "user": "dmitry",
+    "status": "open",
+    "message": "Нужна сортировка заявок по приоритету"
+  },
+  {
+    "id": 3035,
+    "category": "bug",
+    "priority": "high",
+    "user": "pavel",
+    "status": "closed",
+    "message": "Ошибка при прикреплении документа"
+  },
+  {
+    "id": 3054,
+    "category": "feature",
+    "priority": "medium",
+    "user": "olga",
+    "status": "open",
+    "message": "Нужна история изменений в карточке"
+  },
+  {
+    "id": 3057,
+    "category": "feature",
+    "priority": "high",
+    "user": "sergey",
+    "status": "open",
+    "message": "Добавить права доступа для руководителя"
+  },
+  {
+    "id": 3021,
+    "category": "bug",
+    "priority": "medium",
+    "user": "maria",
+    "status": "closed",
+    "message": "Не открывается раздел аналитики"
+  },
+  {
+    "id": 3037,
+    "category": "bug",
+    "priority": "high",
+    "user": "dmitry",
+    "status": "closed",
+    "message": "Не работает переход из уведомления"
+  },
+  {
+    "id": 3048,
+    "category": "feature",
+    "priority": "high",
+    "user": "sergey",
+    "status": "open",
+    "message": "Сделать отдельный раздел для важных клиентов"
+  },
+  {
+    "id": 3032,
+    "category": "bug",
+    "priority": "low",
+    "user": "anna",
+    "status": "closed",
+    "message": "Данные клиента дублируются в таблице"
+  },
+  {
+    "id": 3009,
+    "category": "bug",
+    "priority": "low",
+    "user": "anna",
+    "status": "closed",
+    "message": "Карточка клиента открывается слишком долго"
+  },
+  {
+    "id": 3045,
+    "category": "feature",
+    "priority": "high",
+    "user": "ivan",
+    "status": "open",
+    "message": "Добавить поле для номера договора"
+  },
+  {
+    "id": 3087,
+    "category": "support",
+    "priority": "low",
+    "user": "dmitry",
+    "status": "open",
+    "message": "Где находится список сотрудников"
+  },
+  {
+    "id": 3089,
+    "category": "support",
+    "priority": "medium",
+    "user": "dmitry",
+    "status": "closed",
+    "message": "Подскажите как выгрузить отчет"
+  },
+  {
+    "id": 3065,
+    "category": "feature",
+    "priority": "medium",
+    "user": "alex",
+    "status": "open",
+    "message": "Добавить настройку обязательных полей"
+  },
+  {
+    "id": 3028,
+    "category": "bug",
+    "priority": "high",
+    "user": "ivan",
+    "status": "open",
+    "message": "Не работает кнопка сохранения"
+  },
+  {
+    "id": 3069,
+    "category": "feature",
+    "priority": "low",
+    "user": "pavel",
+    "status": "open",
+    "message": "Добавить печатную форму заявки"
+  },
+  {
+    "id": 3081,
+    "category": "support",
+    "priority": "medium",
+    "user": "anna",
+    "status": "open",
+    "message": "Подскажите как изменить статус"
+  },
+  {
+    "id": 3013,
+    "category": "bug",
+    "priority": "low",
+    "user": "dmitry",
+    "status": "open",
+    "message": "Не отображается комментарий в заявке"
+  },
+  {
+    "id": 3098,
+    "category": "support",
+    "priority": "low",
+    "user": "elena",
+    "status": "open",
+    "message": "Как удалить ошибочно созданную запись"
+  },
+  {
+    "id": 3100,
+    "category": "support",
+    "priority": "high",
+    "user": "irina",
+    "status": "closed",
+    "message": "Как восстановить закрытую заявку"
+  },
+  {
+    "id": 3002,
+    "category": "bug",
+    "priority": "high",
+    "user": "maria",
+    "status": "open",
+    "message": "Не открывается карточка сделки"
+  },
+  {
+    "id": 3010,
+    "category": "bug",
+    "priority": "low",
+    "user": "sergey",
+    "status": "closed",
+    "message": "Пропали данные после сохранения"
+  },
+  {
+    "id": 3091,
+    "category": "support",
+    "priority": "low",
+    "user": "alex",
+    "status": "open",
+    "message": "Не понимаю что означает статус обработки"
+  },
+  {
+    "id": 3059,
+    "category": "feature",
+    "priority": "medium",
+    "user": "pavel",
+    "status": "closed",
+    "message": "Добавить автоматическое закрытие старых заявок"
+  },
+  {
+    "id": 3039,
+    "category": "bug",
+    "priority": "low",
+    "user": "alex",
+    "status": "open",
+    "message": "Не сохраняется комментарий менеджера"
+  },
+  {
+    "id": 3083,
+    "category": "support",
+    "priority": "low",
+    "user": "pavel",
+    "status": "open",
+    "message": "Где посмотреть закрытые заявки"
+  },
+  {
+    "id": 3093,
+    "category": "support",
+    "priority": "low",
+    "user": "elena",
+    "status": "closed",
+    "message": "Где можно посмотреть все задачи"
+  },
+  {
+    "id": 3017,
+    "category": "bug",
+    "priority": "high",
+    "user": "elena",
+    "status": "closed",
+    "message": "При сохранении появляется пустой экран"
+  },
+  {
+    "id": 3051,
+    "category": "feature",
+    "priority": "high",
+    "user": "pavel",
+    "status": "open",
+    "message": "Добавить возможность прикреплять несколько файлов"
+  },
+  {
+    "id": 3095,
+    "category": "support",
+    "priority": "low",
+    "user": "pavel",
+    "status": "open",
+    "message": "Подскажите как найти старую заявку"
+  },
+  {
+    "id": 3031,
+    "category": "bug",
+    "priority": "low",
+    "user": "elena",
+    "status": "closed",
+    "message": "Карточка сделки закрывается сама"
+  },
+  {
+    "id": 3096,
+    "category": "support",
+    "priority": "low",
+    "user": "irina",
+    "status": "open",
+    "message": "Как изменить данные клиента"
+  },
+  {
+    "id": 3092,
+    "category": "support",
+    "priority": "high",
+    "user": "ivan",
+    "status": "open",
+    "message": "Как добавить комментарий к заявке"
+  },
+  {
+    "id": 3086,
+    "category": "support",
+    "priority": "low",
+    "user": "dmitry",
+    "status": "open",
+    "message": "Как изменить приоритет обращения"
+  },
+  {
+    "id": 3027,
+    "category": "bug",
+    "priority": "medium",
+    "user": "pavel",
+    "status": "open",
+    "message": "При переходе по ссылке открывается пустая страница"
+  },
+  {
+    "id": 3034,
+    "category": "bug",
+    "priority": "medium",
+    "user": "sergey",
+    "status": "open",
+    "message": "Система показывает неверный приоритет"
+  },
+  {
+    "id": 3041,
+    "category": "feature",
+    "priority": "high",
+    "user": "irina",
+    "status": "closed",
+    "message": "Добавить новую кнопку для быстрого создания сделки"
+  },
+  {
+    "id": 3067,
+    "category": "feature",
+    "priority": "low",
+    "user": "alex",
+    "status": "open",
+    "message": "Добавить отдельный статус для проверки"
+  },
+  {
+    "id": 3073,
+    "category": "support",
+    "priority": "low",
+    "user": "irina",
+    "status": "open",
+    "message": "Нужно объяснение по правам доступа"
+  },
+  {
+    "id": 3075,
+    "category": "support",
+    "priority": "medium",
+    "user": "dmitry",
+    "status": "closed",
+    "message": "Как закрыть заявку после выполнения"
+  },
+  {
+    "id": 3085,
+    "category": "support",
+    "priority": "medium",
+    "user": "anna",
+    "status": "closed",
+    "message": "Нужно объяснить как работает уведомление"
+  }
+]
